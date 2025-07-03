@@ -1,0 +1,1 @@
+//two pointer approach we have done in intersection of array
